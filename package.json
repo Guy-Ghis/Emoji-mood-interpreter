@@ -1,0 +1,12 @@
+{
+  "name": "emoji-mood-interpreter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interpret emoji mood and score emotional output",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
